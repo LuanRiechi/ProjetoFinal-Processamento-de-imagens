@@ -19,8 +19,6 @@ Seu foco maior é no treinamento e classificação de um dataset
 ```bash
 https://github.com/LuanRiechi/ProjetoFinal-Processamento-de-imagens
 ```
-## Classificador e acurácia
- Classificador(es) utilizado(s) e acurácia(s) obtida(s)
 
 ## Requisitos
 
