@@ -21,11 +21,25 @@ https://github.com/LuanRiechi/ProjetoFinal-Processamento-de-imagens
 ```
 ## Classificador e acurácia
  Classificador(es) utilizado(s) e acurácia(s) obtida(s)
+
+## Requisitos
+
+1 - Certifique-se de ter Python (v.3) instalado em sua máquina; 
  
 ## Execução
 
-1-Clone o projeto na sua maquina, executando o comando:
+1 - Clone o projeto na sua maquina, executando o comando:
 
 ```bash
 git clone https://github.com/LuanRiechi/ProjetoFinal-Processamento-de-imagens
+```
+
+2 - Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+
+3 - Execute o projeto:
+```bash
+python main.py
 ```
